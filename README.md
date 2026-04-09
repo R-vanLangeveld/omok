@@ -18,8 +18,6 @@ I used C++, an object-oriented programming language, to program this game.
 - [learn-cpp.org](https://www.learn-cpp.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/cpp/c-plus-plus/)
 - [cplusplus.com](https://cplusplus.com/doc/)
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
